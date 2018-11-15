@@ -56,15 +56,10 @@ object TwitterStreaming {
 
   def main(args : Array[String]): Unit = {
 
-//    val consumerKey = "JmHjHxQMPZQSOvX1G0R3KxA6f"
-//    val consumerSecret = "QjQLo0wIqSoEQFDmTqhwstBALPQ6zOf1zBu6KokiaOaciexgdY"
-//    val accessToken = "967948938-FUojzp6q4L4DlOFPzVrhEgRHclizuHpIyJfxX22b"
-//    val accessTokenSecret = "h53tSbTvP9VeZdwTqWmFiwXpuawC7oWpLraPhwPFjEX5w"
-
-    val consumerKey = "AN2meAGw1ml4R5viiFEmO9GOK"
-    val consumerSecret = "EdlYhTEe1voXeOCwgzoimI7xBL3wsbpSmTBBppNxv6ph75xMIM"
-    val accessToken = "967948938-DIlY8bnM1qk8ygGpZJEwjZBcGhuky5yXvI6ueu4h"
-    val accessTokenSecret = "nlmpzBsQwHG7V6eN3JJ68jfprtLsC90d8xYniQUQJ1WVs"
+    val consumerKey = ""
+    val consumerSecret = ""
+    val accessToken = ""
+    val accessTokenSecret = ""
 
     Logger.getLogger("org").setLevel(Level.OFF)
     Logger.getLogger("akka").setLevel(Level.OFF)
