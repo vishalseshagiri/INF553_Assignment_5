@@ -6,15 +6,10 @@ import json
 import random
 from collections import Counter
 
-# consumer_key = "JmHjHxQMPZQSOvX1G0R3KxA6f"
-# consumer_secret = "QjQLo0wIqSoEQFDmTqhwstBALPQ6zOf1zBu6KokiaOaciexgdY"
-# access_token = "967948938-FUojzp6q4L4DlOFPzVrhEgRHclizuHpIyJfxX22b" 
-# access_token_secret = "h53tSbTvP9VeZdwTqWmFiwXpuawC7oWpLraPhwPFjEX5w"
-
-consumer_key = "AN2meAGw1ml4R5viiFEmO9GOK"
-consumer_secret = "EdlYhTEe1voXeOCwgzoimI7xBL3wsbpSmTBBppNxv6ph75xMIM"
-access_token = "967948938-DIlY8bnM1qk8ygGpZJEwjZBcGhuky5yXvI6ueu4h"
-access_token_secret = "nlmpzBsQwHG7V6eN3JJ68jfprtLsC90d8xYniQUQJ1WVs"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 class Listener(StreamListener):
     
